@@ -9,4 +9,7 @@ Subjects:
 2. Programming Fundamentals
    2.1. Fundamentals of R
    2.2. Fundamentals of Python
-   
+
+3. Programming Intermediate Level
+   3.1. Intermediate of R
+   3.2. Intermediate of Python
