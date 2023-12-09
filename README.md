@@ -13,3 +13,6 @@ Subjects:
 3. Programming Intermediate Level
    3.1. Intermediate of R
    3.2. Intermediate of Python
+
+4. Artificial Intelligence Tools
+   4.1. Introduction to Machine Learning
